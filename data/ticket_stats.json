@@ -1,0 +1,87 @@
+{
+  "tickets": 40,
+  "sla_met": 37,
+  "sla_pct": 92.5,
+  "tto_met_pct": 97.5,
+  "ttr_met_pct": 92.5,
+  "avg_resolution_h": 5.4,
+  "avg_first_response_min": 49.8,
+  "by_category": [
+    [
+      "Accounts and Access",
+      6
+    ],
+    [
+      "Network and VPN",
+      6
+    ],
+    [
+      "Hardware",
+      6
+    ],
+    [
+      "Software and Licences",
+      5
+    ],
+    [
+      "Email",
+      4
+    ],
+    [
+      "Printers and Scanners",
+      4
+    ],
+    [
+      "Fleet and Charging Software",
+      3
+    ],
+    [
+      "Security Incident",
+      2
+    ],
+    [
+      "New Joiner / Leaver",
+      2
+    ],
+    [
+      "Other",
+      2
+    ]
+  ],
+  "by_priority": {
+    "Medium": 20,
+    "High": 8,
+    "Low": 9,
+    "Urgent": 3
+  },
+  "by_platform": {
+    "Windows": 32,
+    "Network": 4,
+    "Linux": 4
+  },
+  "by_group": {
+    "Service Desk L1": 29,
+    "Infrastructure and Network L2": 8,
+    "Fleet Applications Support": 3
+  },
+  "breaches": [
+    [
+      "T-007",
+      "Urgent",
+      "Yes",
+      "No"
+    ],
+    [
+      "T-021",
+      "High",
+      "Yes",
+      "No"
+    ],
+    [
+      "T-037",
+      "Medium",
+      "No",
+      "No"
+    ]
+  ]
+}
